@@ -1,0 +1,11 @@
+pip install
+            polars
+            python-dotenv
+            langchain-google-genai
+            langchain
+            langchain-community
+            neo4j
+
+
+address config neo4j: 
+...\Neo4jDesktop\relate-data\dbmss\dbms-68c77213-a191-485c-b40c-30ea444a22aa\conf
